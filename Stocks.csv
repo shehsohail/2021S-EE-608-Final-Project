@@ -1,0 +1,37 @@
+Symbol,Symbol link,Company Name,Last Price,Dividend,50-DMA,50-DMA Chg,50-DMA Chg %,Rate of Return,1yr Target Est,Beta,Sector,Metal/Bond,Health/Pharm,Tech,Bank,Retail
+PLG,PLG,Platinum Group Metals Ltd.,5.11,0.001,4.04,1.07,26.47%,0.2647,6.96,1.23,Metals,1,0,0,0,0
+ABML,ABML,American Battery Metals Corporation,1.92,0.001,1.66,0.26,15.59%,0.1559,-,0.87,Metals,1,0,0,0,0
+SMTS,SMTS,Sierra Metals Inc.,3.37,0.001,3,0.37,12.15%,0.1215,4,1.9,Metals,1,0,0,0,0
+CLOV,CLOV,"Clover Health Investments, Corp.",8.77,0.001,8.11,0.66,8.17%,0.0817,12.67,0,Health,0,1,0,0,0
+WPM,WPM,Wheaton Precious Metals Corp.,42.77,0.0121,39.63,3.14,7.91%,0.0791,60.45,0.34,Metals,1,0,0,0,0
+TSLA,TSLA,"Tesla, Inc.",729.4,0.001,677.06,52.34,7.73%,0.0773,650.81,2.01,Tech,0,0,1,0,0
+MSFT,MSFT,Microsoft Corporation,261.15,0.0087,242.84,18.31,7.54%,0.0754,275.89,0.79,Tech,0,0,1,0,0
+AAPL,AAPL,Apple Inc.,134.32,0.0062,125.55,8.77,6.99%,0.0699,152.06,1.22,Tech,0,0,1,0,0
+PFE,PFE,Pfizer Inc.,38.66,0.0404,36.25,2.41,6.64%,0.0664,40.69,0.65,Pharm,0,1,0,0,0
+ARWR,ARWR,"Arrowhead Pharmaceuticals, Inc.",71.59,0.001,67.21,4.38,6.51%,0.0651,91.17,1.27,Pharm,0,1,0,0,0
+TGT,TGT,Target Corporation,206.01,0.0132,193.75,12.26,6.33%,0.0633,210.04,1.01,Retail,0,0,0,0,1
+NNN,NNN,"National Retail Properties, Inc.",47.19,0.044,44.48,2.71,6.10%,0.0610,47.55,0.8,Retail,0,0,0,0,1
+DFS,DFS,Discover Financial Services,102.84,0.0177,98.1,4.74,4.84%,0.0484,113.24,1.78,Bank,0,0,0,1,0
+ORCL,ORCL,Oracle Corporation,74.97,0.0171,71.82,3.15,4.39%,0.0439,71.83,0.77,Tech,0,0,1,0,0
+T,T,AT&T Inc.,31.4,0.0663,30.08,1.32,4.39%,0.0439,29.55,0.74,Tech,0,0,1,0,0
+FB,FB,"Facebook, Inc.",301.13,0.001,290.02,11.11,3.83%,0.0383,339.27,1.29,Tech,0,0,1,0,0
+NOK,NOK,Nokia Corporation,4.2,0.001,4.06,0.14,3.42%,0.0342,4.9,0.53,Tech,0,0,1,0,0
+WMT,WMT,Walmart Inc.,139.9,0.0158,135.56,4.34,3.20%,0.0320,159.38,0.48,Retail,0,0,0,0,1
+CSCO,CSCO,"Cisco Systems, Inc.",51.91,0.0287,50.48,1.43,2.84%,0.0284,53.1,0.93,Tech,0,0,1,0,0
+CVS,CVS,CVS Health Corporation,76.05,0.0263,74.16,1.89,2.54%,0.0254,87.18,0.82,Health,0,1,0,0,0
+GLD,GLD,SPDR Gold Shares,166.4,0,162.55,3.85,2.37%,0.0237,-,-0.03,Metals,1,0,0,0,0
+LNC,LNC,Lincoln National Corporation,63.62,0.027,62.22,1.4,2.26%,0.0226,64.54,2.26,Bank,0,0,0,1,0
+REGN,REGN,"Regeneron Pharmaceuticals, Inc.",488.64,0.001,478.41,10.23,2.14%,0.0214,643.36,0.19,Pharm,0,1,0,0,0
+CLOV,CL,Colgate-Palmolive Company,79.79,0.0222,78.13,1.66,2.12%,0.0212,85.13,0.6,Pharm,0,1,0,0,0
+BAC,BAC,Bank of America Corporation,39.18,0.0188,38.41,0.77,2.01%,0.0201,42.78,1.58,Bank,0,0,0,1,0
+GE,GE,General Electric Company,13.55,0.003,13.29,0.26,1.98%,0.0198,14.27,1.09,Tech,0,0,1,0,0
+EMR,EMR,Emerson Electric Co.,92.46,0.0221,90.72,1.74,1.92%,0.0192,98.53,1.57,Tech,0,0,1,0,0
+BK,BK,The Bank of New York Mellon Corporation,47.6,0.0266,46.79,0.81,1.74%,0.0174,52.19,1.07,Bank,0,0,0,1,0
+QCOM,QCOM,QUALCOMM Incorporated,135.43,0.0205,133.35,2.08,1.56%,0.0156,170.05,1.35,Tech,0,0,1,0,0
+RY,RY,Royal Bank of Canada,93.46,0.037,92.57,0.89,0.96%,0.0096,88.28,0.79,Bank,0,0,0,1,0
+PG,PG,The Procter & Gamble Company,133.94,0.0258,132.71,1.23,0.93%,0.0093,147.89,0.43,Pharm,0,1,0,0,0
+MS,MS,Morgan Stanley,80.95,0.0179,80.48,0.47,0.58%,0.0058,91.7,1.56,Bank,0,0,0,1,0
+TGHYX,TGHYX,TCW High Yield Bond Fund Class Institutional,6.88,0.0368,6.85,0.03,0.48%,0.0048,-,0.69,Bond,1,0,0,0,0
+HICOX,HICOX,Colorado Bond Shares A Tax Exempt Fund,9.41,0.04,9.39,0.02,0.23%,0.0023,-,0.72,Bond,1,0,0,0,0
+VZ,VZ,Verizon Communications Inc.,57.3,0.0438,57.28,0.02,0.04%,0.0004,60.3,0.46,Tech,0,0,1,0,0
+M,M,"Macy's, Inc.",16.92,0.001,16.92,0,0.01%,0.0001,13.04,2.15,Retail,0,0,0,0,1
